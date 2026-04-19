@@ -1,0 +1,13 @@
+{
+  "name": "spatial3d",
+  "version": "1.0.0",
+  "description": "鸿蒙 3D 空间计算 SDK",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "keywords": ["harmonyos", "spatial", "ar", "3d"],
+  "dependencies": {},
+  "modules": [
+    "Spatial3D"
+  ]
+}
